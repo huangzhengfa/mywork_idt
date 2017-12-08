@@ -1,2 +1,0 @@
-硬件：hi3516a(soc) + AP6181(wifi) + (camera) +(radar)
-https://github.com/liuzhiping1/mywork_idt.git
